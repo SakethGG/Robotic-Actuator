@@ -20,7 +20,9 @@ Keeping track of what I do every day to improve my efficiency and
 
 3/2/25:
 -did some research on the motor and went to multiple design iterations,
--read multiple papers:
+-read multiple papers: made a basic understanding of the key components
+-explored different types of actuators like proprioceptive actuators, hydraulic actuators, serial elastic actuators 
+-made a basic model in design.
 
 
 
