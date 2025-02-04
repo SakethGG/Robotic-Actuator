@@ -24,7 +24,8 @@ Keeping track of what I do every day to improve my efficiency and
 -explored different types of actuators like proprioceptive actuators, hydraulic actuators, serial elastic actuators 
 -made a basic model in design.
 
-
+4/2/25:
+-understanding the design requirements for the actuator to handle the impact.i.e. generally somewhere in the design, we need to incorporate a compliant element of stiffness "k". but this is not necessary for the actuator as it has everything under limit.
 
 
 
