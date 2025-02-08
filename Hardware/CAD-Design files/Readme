@@ -1,3 +1,18 @@
 These are all the CAD design files you need to build the robotic actuator.
 
-i am making multiple iterations first with 3d printed parts.
+I am making multiple iterations first with 3d printed parts.
+
+
+I am using PLA for 3D printing, although it is not very heat-resistant. I personally use a Bambu Lab A1 printer, which can not print with ABS or any other heat-resistant material.
+ for the following final build I am planning on using Aluminum 6061-T6(still not decided yet as it is very expensive to get it machined.)
+
+Why Choose 6061-T6?
+✅ Lightweight – High strength-to-weight ratio.
+✅ High Strength – Suitable for structural and load-bearing parts.
+✅ Corrosion Resistance – Good resistance to oxidation.
+✅ Machinability – Easy to CNC machine, drill, and tap.
+✅ Thermal Conductivity – Helps dissipate heat from the motor.
+
+Alternative Aluminum Choices:
+7075-T6 → Stronger but more expensive and harder to machine.
+5052-H32 → Good for sheet metal parts, not as strong as 6061.
