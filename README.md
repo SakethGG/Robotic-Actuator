@@ -4,38 +4,6 @@ This is a high-performance robotic actuator designed for dynamic and agile motio
 
 
 
-
-
-
-
-
-
-
-
-
-IGNORE THIS:(target is to complete the design process by the end of this month)
-Keeping track of what I do every day to improve my efficiency and 
-
-
-
-3/2/25:
--did some research on the motor and went to multiple design iterations,
--read multiple papers: made a basic understanding of the key components
--explored different types of actuators like proprioceptive actuators, hydraulic actuators, serial elastic actuators 
--made a basic model in design.
-
-4/2/25:
--understanding the design requirements for the actuator to handle the impact.i.e. generally somewhere in the design, we need to incorporate a compliant element of stiffness "k". but this is not necessary for the actuator as it has everything under limit.
-
-
-
-
-
-
-
-
-
-
 Structure of the project:
 
 
