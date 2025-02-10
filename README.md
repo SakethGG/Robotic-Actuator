@@ -16,9 +16,7 @@ This is a high-performance robotic actuator designed for dynamic and agile motio
 Robotic-Actuator/  
 │── 📜 README.md             # Overview, features, setup guide  
 │── 📜 LICENSE               # Open-source license (e.g., MIT)  
-│── 📜 CONTRIBUTING.md       # Guidelines for contributors  
-│── 📜 CODE_OF_CONDUCT.md    # Community interaction rules  
-│── 📜 CHANGELOG.md          # Version history and updates  
+│── 📜 CONTRIBUTING.md       # Guidelines for contributors   
 │── 📜 .gitignore            # Ignore unnecessary files (logs, builds)  
 │  
 ├── 📂 docs/                 # Documentation  
