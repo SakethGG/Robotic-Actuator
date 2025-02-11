@@ -1,0 +1,18 @@
+# **Robotic Actuator for Dynamic Legged Locomotion**  
+
+This project focuses on the design, simulation, and control of a high-performance robotic actuator tailored for dynamic legged robots. The actuator is optimized for **high torque density, rapid response, and efficient power delivery**, making it suitable for applications such as quadruped and humanoid robotics.  
+
+## **Key Features:**  
+- **High Torque-to-Weight Ratio:** Designed for agile and powerful motion in legged robots.  
+- **Custom Motor and Gear Design:** Integration of a **cycloidal drive or harmonic drive** for efficiency and backlash reduction.  
+- **Precision Sensing and Control:** Incorporates **encoders, current sensors, and real-time feedback** for precise motion control.  
+- **Embedded Control System:** Implemented using **C++ and embedded firmware**, ensuring real-time responsiveness.  
+- **MATLAB & Python Simulations:** Includes kinematic and dynamic simulations to validate performance.  
+
+## **Applications:**  
+- Legged robotics (quadrupeds, bipeds)  
+- Exoskeletons and assistive devices  
+- Autonomous robotic systems requiring dynamic locomotion  
+
+This repository contains **CAD designs, motor control algorithms, simulation scripts, and experimental results** to aid researchers and developers in building their own robotic actuators.  
+
