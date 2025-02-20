@@ -28,14 +28,14 @@ Robotic-Actuator/
 │   ├── 📜 troubleshooting.md # Common issues and fixes  
 │  
 ├── 📂 hardware/             # Mechanical design files  
-│   ├── 📂 CAD/              # 3D models (SolidWorks, STEP files)  
+│   ├── 📂 CAD/              # 3D models (STEP files)  
 │   ├── 📂 Schematics/       # PCB design, motor driver circuits  
 │   ├── 📜 BOM.xlsx          # Bill of Materials (components list)  
 │  
 ├── 📂 firmware/             # Embedded software  
 │   ├── 📂 src/              # Source code for microcontroller (C/C++)  
 │   ├── 📂 libs/             # Libraries (motor drivers, sensors)  
-│   ├── 📜 main.ino          # Example Arduino/STM32 firmware  
+│   ├── 📜 main.ino          # STM32 firmware  
 │  
 ├── 📂 software/             # Control and simulation scripts  
 │   ├── 📂 MATLAB/           # MATLAB scripts for motor control  
